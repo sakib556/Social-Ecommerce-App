@@ -1,5 +1,6 @@
 # protibeshi_app
-
+This is the only lib file of my app.   
+This is because I want to show my professional coding structure to the viewer.
 This is a social ecommerce app.
 
 ## About the project
